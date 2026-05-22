@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Sass / build artifacts
+*.css.map
+.sass-cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
